@@ -1,1 +1,1 @@
-# queens-student-page
+https://cappuccinointherain.github.io/queens-student-page/
